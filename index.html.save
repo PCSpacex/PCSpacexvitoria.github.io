@@ -1,0 +1,589 @@
+<html>
+<style>
+html{
+background-color: yellow;
+margin: 100px;
+}
+h1{
+font-size: 40px;
+}
+
+</style>
+<link rel="shortcut icon" href="http://www.iconj.com/ico/p/3/p37ar9u449.ico"
+<h1 style="text-align: center;"><strong><span style="color: #ff0000;">Hardware</span> <span style="color: #00ff00;">Abertzale</span></strong></h1>
+<p align="center">
+    <strong>Akats Fisikoak</strong>
+</p>
+<p align="center">
+    <u><strong>RAM Memoria </strong></u>
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailuak ez du detektatzen memoria guztia
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Memoria modulua ez egotea ondo kokatuta RAM zirrikituetan. Orduan eta
+    plaka nagusia ez du detektatzen moduluak.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : RAM memoriak ondo kokatzeko, begiratu behar dugu kontaktu pinen posizioa.
+    Parte bat luzeago da beste baino, eta sartu behar da zirrikituko parte
+    luzean. Bestea berriz, parte txikia. Indar pizka bat egin behar da ere, eta
+    “click” egitean, ondo sartuta dagoela esan nahi du.
+</p>
+<p>
+    <a name="_GoBack"></a>
+    <br/>
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/Kj8GFRd.png"
+        name="Imagen 23"
+        align="bottom"
+        width="242"
+        height="171"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailuak blokeatzen edo izotzen da, berrabiarazten da edo
+            Hiltzearen pantaila urdina (Blue Screen of Death ) agertzen da.
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : RAM memorien arazo internoa da , ezin dena zuzendu, baina modulo bat
+    baino gehiago badaukazu, again arazoa bakarrik modulu bat sortzen ari da.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Lehenengo , MEMTEST86+ softwarea jeitsi, eta USB batean sartu.
+    Ordenagailua berrabiarazi eta BIOS-ean sartu eta aldatu abiarazte
+    lehentasuna, jartzen zure USB-a lehenengo, gorde eta atera. Memtest
+    programa hasiko da zure RAM memoria analizatzen , gomendatzen da uztea 2
+    ordu , ondo aztertzeko. RAM memoria erroreak badauka , programak
+    jakinaraziko dizu, bukatzean, beste modulua jarri eta prozesu berdina egin.
+</p>
+<p>
+    Horrela jakin ahal dugu zein den huts egiten duen modulua, baina ezin duzu
+    zuzendu. Aukera bakarrak beste modulu bat erostea bat da, baina gogoratu,
+    beste modoluaren berdin-berdina.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/7uFVWEC.png"
+        name="Imagen 7"
+        align="bottom"
+        hspace="1"
+        vspace="1"
+        width="409"
+        height="227"
+        border="0"
+    />
+</p>
+<p align="center">
+    <u><strong>Txartel Grafikoaren Arazoak</strong></u>
+</p>
+<ul>
+    <li>
+        <p>
+            Artefaktoak agertzen dira
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Karga handiko lanak egitean , bideojokoak edo diseinua , artefaktuak
+    agertzen dira monitorean. Normalean , overclock altu bat egiteagatik
+    agertzen dira, baina txartel grafikoa akastunak izatea ere sortu ahal ditu.
+</p>
+<p>
+    <strong>Soluzio Overclock </strong>
+    : Overclock-a nahi baduzu mantentzea , jeitsi ezazu pizka bat , -10 mhz
+    bakoitzean eta erabiltzen stress software bat, adibidez FURMARK ikusteko
+    artefaktuak agertzen badira. Ez badira agertzen, ezan nahi du overclocka
+    egonkorra dela . Prozesu astuna da , baina ziurtatzen du ez dugula izango
+    artefaktoak edo beste arazorik.
+</p>
+<p>
+    <strong>Soluzio Arazo internoa </strong>
+    : Ez dauka soluziorik. Arazo interno bat delako, ezin dugu ezin egin,
+    bakarrik beste bat erosi, edo bermea badaukagu, aldatu, sartzen delako
+    bermean.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/qj9l05g.jpg"
+        name="Imagen 10"
+        align="bottom"
+        width="332"
+        height="187"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailua itzaltzen da edo hiltzeko pantaila urdina agertzen da
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Gainberotzegatik gertatzen da normalean. Sekuritateagatik, ez erretzeko,
+    ordenagailua berrabiarazten da, pantaila urdina agertzen kasu gehinetean.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Haizgailuak garbitu , aire konprimituarekin edo brotxa batekin. Horrela
+    lortzen dugu hautsa kentzea eta aireztapen hobeagoa, tenperaturak jeisten
+    nabarki. Nahi badugu tenperatura gehiago jeistea , pasta termikoa erabili
+    ahal dugu nukleoan , baina horretarako desmuntatu behar dugu haizgailuak.
+</p>
+<p>
+    Txasisean haizgailu gehiago jarri ahal ditugu ere , kutxaren aireztapen
+    orokorra hobetzen, eta beste gailuen, txartel grafikoa adibidez,
+    tenperatura jeisten.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/6BPEE3C.jpg"
+        name="Imagen 13"
+        align="bottom"
+        vspace="1"
+        width="300"
+        height="169"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            Txartel grafikoa ez du gehiago funtzionatzen / Ez du bideoa ematen.
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Txartel grafikoak, produktu guztiak bezala, hil ahal dira eta ez
+    funtzionatzea gehiago. Normalean , beste bat erosten dugu, baina dago azken
+    aukera bat konpontzeko : Reflow. Baina bakarrik egin bermea amaitu bada.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Konponbide oso extremoa bat da , reflow-a oinarritzen da gure txartel
+    grafikoa labean berotzen , barne konponenteak batzen. Labea jarri behar
+    dugu 200-270°C-tan eta txartelaren haizgailuak desmuntatuta. 5-10 minutu
+    pasa ondoren, labea itzali eta txartela sakatu. Esan dugunez , konponbide
+    oso extremoa da , eta txartel grafikoa apurtu ahal da , baina sorte pizka
+    bat badugu gure txartel grafikoa berpiztuko da.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/M8SKtP9.jpg"
+        name="Imagen 11"
+        align="bottom"
+        hspace="1"
+        width="218"
+        height="111"
+        border="0"
+    />
+</p>
+<p align="center">
+    <strong>Elikadura Iturria</strong>
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailua ez da pizten
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Elikatze Iturria apurtuta egon ahal da eta ez ematea korronterik
+    ordenagailuari.
+</p>
+<p>
+    <strong>Soluzioa:</strong>
+    Hau konprobatzeko , zubi bat egiten da 24 pineko konektorearekin. Klip
+    batekin, zubia egiten dugu pin beltza (Lur hargunea) eta berdearen artean
+    (PS_ON). Egitean, pizten dugu eta haizgailua mugitzen bada , esan nahi du
+    ez dela elikatze iturriaren arazoa , eta izan ahal da esan dugunez ,
+    PUZ-arena. Gehiago konprobatu nahi badugu, tester bat edo multimetro bat
+    erabili ahal dugu, kableak eman behar duten balioak ikusteko ematen dutela.
+</p>
+<p>
+<p align="center">
+    <img
+        src="https://imgur.com/Mqqe6oR.jpg"
+        name="Imagen 15"
+        align="bottom"
+        hspace="1"
+        vspace="1"
+        width="189"
+        height="142"
+        border="0"
+    />
+    <img
+        src="https://imgur.com/OjO4USL.jpg"
+        name="Imagen 16"
+        align="bottom"
+        hspace="1"
+        width="187"
+        height="140"
+        border="0"
+    />
+    <u> </u>
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>Bideojokoetan , ordenagailua itzaltzen da </strong>
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Elikatze iturria ez dauka potentzia nahikoa. Jokuak gure konponeenteko
+    potentzia ia osoa behar dute ondo funtzionatzeko , bereiziki joku berriak.
+    Orduan , elikatze iturria ezin badu eman potentzia guztia, ordenagailua
+    itzaltzen da momentu batean.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Soluzio bat jokoetan grafikoak edo bereizmena beheratzea da , potentzia
+    gutxiago eskatzeko. Beste soluzio bat , jende gehiena egiten duena , pbeste
+    iturri bat erostea , potentzia handiagokoa.
+</p>
+<p align="center">
+    <u><strong>Disko Gogorra</strong></u>
+</p>
+<ul>
+    <li>
+        <p>
+            <u>
+                <strong>
+                    Disko gogorra ez du funtzionatzen edo soinu arraroak ditu
+                </strong>
+            </u>
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Barne konponente bat ( Burua , platerrak…) , kolpe baten ondorioz ,
+    apurtu da. Ez da oso arrunta , pertsona normalak ez dutelako bere disko
+    gogorra botatzen lurrera, baina despiste batean pasatu ahal da.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Saihatu ahal da konpontzen, apurtu den konponentearen ordezpaken bat
+    lortzen badugu, baina jakin behar da nola aldatu orduan eta gomendatzen da
+    beste disko gogor bat erostea , lehenengo datuak saiatzen errekuperatzen.
+    Ez da gomendatzen ez bakarrik zaila delako, baina konponenteak ez direlako
+    ez merkeak ezta errazak aurkitzeko
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/mgFq0wV.jpg"
+        name="Imagen 17"
+        align="bottom"
+        hspace="1"
+        width="302"
+        height="177"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailuak ez du disko gogorra detektatzen
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : SATA konektorea ez dago ondo konektatuta, oso mehea denez , nahiko erraz
+    deskonektatu ahal da.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Konektatu berriro SATA konektorea eta brida bat erabili konektorea ez
+    mugitzeko, horrela ziurtatzen zara finkatu geratuko dela.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/jDeX9XD.jpg"
+        name="Imagen 18"
+        align="bottom"
+        hspace="1"
+        width="171"
+        height="119"
+        border="0"
+    />
+    <img
+        src="https://imgur.com/aetUuMU.jpg"
+        name="Imagen 19"
+        align="bottom"
+        hspace="1"
+        vspace="1"
+        width="151"
+        height="113"
+        border="0"
+    />
+</p>
+<p align="center">
+    KUTXA
+</p>
+<ul>
+    <li>
+        <p>
+            <u>
+                <strong>
+                    Kutxaren botoiari ematen diot eta ordenagailua ez da pizten
+                </strong>
+            </u>
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Plaka nagusiko panel frontala gaizki konfiguratuta dago. Kutxak , kable
+    txiki batzuk ditu konektatzen direnak plaka nagusian, beheraldean.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Panel frontala ondo konfiguratu behar da, horretarako plaka nagusiaren
+    manuala hartzea gomendatzen dugu , plaka batuzk konfigurazio bereziak
+    dituztelako, baina orkorreak konfigurazio hau dakate :
+    <br/>
+    <br/>
+</p>
+<p>
+    -Power Led : Goiko 2. eta 4. Pinetan
+</p>
+<p>
+    -HDD Led: Beheko 1. eta 3. pinetan
+</p>
+<p>
+    -Power SW: Goiko 6. eta 8. pinetan
+</p>
+<p>
+    -Reset SW: Beheko 5. eta 7. pinetan
+</p>
+<p>
+    Garrantzitsuena POWER SW da, besteak hautazkoak dira. PowerSW-rik gabe
+    botoari ematea ez du ezer egingo. Gure PowerSW kablea apurtuta badago,
+    jarri ahal dugu ResetSW-a goiko 6. eta 8. pinetan , eta berrabiarazteko
+    botoiarekin piztuko da ordenagailua.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/wZjKdAu.png"
+        name="Imagen 20"
+        align="bottom"
+        hspace="1"
+        width="201"
+        height="178"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            Ordenagailua orkorrean asko berotzen da
+        </p>
+    </li>
+</ul>
+<p>
+    Arazoa: Aireztapen txarra daukagu. Aireztapena on bat izatea oso
+    garrantzitzua da, nahiko aire sartzeko eta aire beroa kanporatzeko. Ez
+    badaukagu nahiko haizgailu, edo haizgailu gehiago sartzen eta gutxi
+    kanporatzen, ordenagailua asko berotuka da , beste konponenteak eragiten.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Aireztapen konfigurazio on bat ezartea. Horretarako 5 haizgailu behar
+    ditugu , 2 airea freskoa botatzen eta 3 aire beroa kanporatzen. Frontalak,
+    botatzen dute aire freskoa , botatzen txartel grafikoaren beroa
+    eskuinaldera , non alboko hazgailua kanporatzen du. Azkenez, goian bi
+    hazgailu ditugu, aire beroa kanporatzen gure ordenagailutik, bereziki
+    prozesagailuak sortzen duena. Horrela lortuko genuen aireztapen
+    konfigurazio optimo bat. Gomendatzen dugu hautsen kontrako filtroak
+    jartzea.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/2rztl3d.png"
+        name="Imagen 21"
+        align="bottom"
+        width="371"
+        height="171"
+        border="0"
+    />
+</p>
+<p align="center">
+    <u><strong>MIKROPROZESAGAILUA</strong></u>
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>Ordenagailua ez du funtzionatzen.</strong>
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : PUZ-a gaizki jarrita egon ahal da Zokaloan, eta ez funtzionatzea, pinak
+    ez dutelako kontaktu egiten plaka basearekin.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Hau konpontzeko , ondo jarri behar dugu PUZ-a. Horretarako , PUZ-a
+    hartzen dugu eta gezi txikia bat egin behar du Zokaloaren gezi txikiarekin,
+    eta erraz finkatuko da.
+</p>
+<p>
+<p align="center">
+    <img
+        src="https://imgur.com/vA9mlMQ.png"
+        name="image5.png"
+        align="bottom"
+        width="600"
+        height="300"
+        border="0"
+    />
+</p>
+<ul>
+    <li>
+        <p>
+            <strong>
+                Ordenagailua itzaltzen da, PUZ-a asko berotzen denean.
+            </strong>
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Prozesagailua eta disipadorea ez dute ondo kontaktu egiten
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Disipadorea eta prozesagailua kontaktu egiteko, eta disipadorea beroa
+    xahurtseko, prozesagailua eta disipadore ondo finkatu behar da , ez
+    badelako egiten , ordenagailua asko berotuko da eta itzaliko da. Hau
+    ebazteko, ondo finkatu behar dugu disipadorea ainguraketan , torlojuak ondo
+    kokatzen. Jakina, disipadorean pasta termikoa jarri behar dugu beroa
+    eroantzeko.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/7Ll2EZi.png"
+        name="image6.png"
+        align="bottom"
+        width="404"
+        height="288"
+        border="0"
+    />
+</p>
+<p align="center">
+    <u><strong>Plaka Basea</strong></u>
+</p>
+<ul>
+    <li>
+        <p>
+            Mikroprozesagailuaren maiztasuna (Mhz) eta errendimendua jeisten da
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa : </strong>
+    Voltage Regulator Module(VRM) edo alimentazio faseak gainberotzen direnean,
+    ez apurtzeko edo ustiatzeko, alimentazio faseak prozesagailuaren maiztasuna
+    beheratzen du , eta horrekin prozesagailua errendimendua behera egiten,
+    adibidez jokuetan FPS-ak jeisten ugari.
+</p>
+<p>
+    <strong>Soluzioak:</strong>
+</p>
+<p>
+    Jarri dispadoreak VRM-tan ( Ez badaukate ) : Gama baxuako plaka nagusiak
+    eta plaka zaharrak orokorrean ez daukate disipadoreak VRM-etan. Disipadore
+    hauek, ez dira garestiak , baina zailak dira erostea , orduan eta ez dira
+    soluzio oso praktikoa.
+</p>
+<p>
+    Beste soluzio bat , haizgailu txiki bat jartzea airea botatzen zuzenki
+    alimentazio faseetan. Soluzio erraza eta merkea da , baina ez da oso
+    praktikoa , haizgailua kokatu ondoren zintzilika geratuko delako.
+</p>
+<p>
+    Azkenean, soluzio praktikoena beste plaka bat erostea , eta prozesagailu
+    bat erosi lehenago, VRM-ei buruz ikerketa egitea.
+</p>
+<p>
+    Adibidez, <u><a href="https://i.redd.it/xda4pmf92pw11.png">link hau</a></u>
+    , AMD plaka nagusietako informazioa eskaintzen du.
+</p>
+<p>
+<p align="center">
+    <img
+        src="https://imgur.com/vlpyVLb.jpg"
+        name="image8.png"
+        align="bottom"
+        width="271"
+        height="192"
+        border="0"
+    />
+    <img
+        src="https://imgur.com/0dam6IE.jpg"
+        name="image9.png"
+        align="bottom"
+        width="246"
+        height="185"
+        border="0"
+    />
+</p>
+<p>
+    <em>VRM disipadoreak Haizgailua VRM-tan</em>
+</p>
+<ul>
+    <li>
+        <p>
+            Alimentazio konektoreak ez dute funtzionatzen.
+        </p>
+    </li>
+</ul>
+<p>
+    <strong>Arazoa</strong>
+    : Plaka nagusia muntatzean, karga estatikoz beteta geundelako, plaka
+    nagusiaren atzean dauden pinak ukitzeagatik asko , kargatu ditugu eta
+    apurtu dira. Ez da arazo oso komuna , baina <em>Hardware Abertzalen</em>
+    pasatu zen , non 8 pineko konektorea apurtu zen eta prozesagailau ez zuen
+    korrontea jasotzen.
+</p>
+<p>
+    <strong>Soluzioa</strong>
+    : Ez dago soluziorik , beste plaka bat erosi behar duzu, nahiz eta bakarrik
+    konektore bat apurtu , konektore hori bai edo bai behar da.
+</p>
+<p align="center">
+    <img
+        src="https://imgur.com/ygkbsxI.jpg"
+        name="Imagen 22"
+        align="bottom"
+        width="232"
+        height="189"
+        border="0"
+    />
+</p>
+</html>
